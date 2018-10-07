@@ -28,7 +28,7 @@ namespace ConsoleApp_FirstApp
 
             foreach (Galaxy theGalaxy in theGalaxies)
             {
-                Console.WriteLine(theGalaxy.Name + "  " + theGalaxy.MegaLightYears + ",  " + theGalaxy.GalaxyType);
+                Console.WriteLine(theGalaxy.Name + "  " + theGalaxy.MegaLightYears + ",  " + theGalaxy.GalaxyType.MyGType);
             }
         }
     }
