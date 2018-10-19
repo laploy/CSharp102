@@ -1,0 +1,9 @@
+StreamReader is designed for character input in a particular encoding. It is used for reading lines of information from a standard text file.
+
+StreamReader file will still opend after reading.
+
+The File.ReadAllLines() opens a text file, reads all lines of the file into a string array, and then closes the file.
+
+The File.ReadAllLines() takes care of properly disposing resources.
+
+The File.ReadAllLines() has simpler syntact.
