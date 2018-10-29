@@ -1,22 +1,23 @@
 # CSharp2
-Course materials for advance C# programming language course
 
-0010 Introduction to course.docx
-0040 Principles of Object Oriented.docx
-0050 Introducion to OOP.docx
-0110 Namespace.docx
-0120 Classes.docx
-0130 Structs.docx
-0150 Create and using Object.docx
-0160 Exception handling.docx
-0170 File System IO.docx
-0180 CSV and data table.docx
-0190 LINQ.docx
-0200 Generic.docx
-0210 Collection.docx
-0220 Debugging.docx
-0230 Nullable types.docx
-0240 Library and dll.docx
-0250 .NET Framework.docx
-0260 Data Structure.docx
-1000 Piano.docx
+## Course materials for intermediate C# programming language course
+
+  - 0010 Introduction to course
+  - 0040 Principles of Object Oriented
+  - 0050 Introducion to OOP
+  - 0110 Namespace
+  - 0120 Classes
+  - 0130 Structs
+  - 0150 Create and using Object
+  - 0160 Exception handling
+  - 0170 File System IO
+  - 0180 CSV and data table
+  - 0190 LINQ
+  - 0200 Generic
+  - 0210 Collection
+  - 0220 Debugging
+  - 0230 Nullable types
+  - 0240 Library and dll
+  - 0250 .NET Framework
+  - 0260 Data Structure
+  - 1000 Piano
