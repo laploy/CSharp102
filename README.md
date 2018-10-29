@@ -1,4 +1,4 @@
-# CSharp2
+# CSharp102
 
 ## Course materials for intermediate C# programming language course
 
